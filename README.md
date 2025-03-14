@@ -50,12 +50,12 @@ How to Run the Project
 1.  **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/viniciusbgs/Spotify_Simulation.git
+    cd Spotify_Simulation/tailwind-spotify
 
 2.  **Set up environment variables**:
 
-    -   Create a `.env` file in the root directory based on the `.env.example` template.
+    -   Create a `.env` file directory based on the `.env.example` template.
 
     -   Add your credentials (e.g., MongoDB username and password).
 
